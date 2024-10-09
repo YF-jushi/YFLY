@@ -1,0 +1,20 @@
+Added Component: Designator=JP2(2.54_3X5PIN)
+Add component (AddParameter): Name = "BOM名称"; Value = "5*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT1 Pin=JP2-1
+Added Pin To Net: NetName=5V0 Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=OUT2 Pin=JP2-4
+Added Pin To Net: NetName=5V0 Pin=JP2-5
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=OUT3 Pin=JP2-7
+Added Pin To Net: NetName=5V0 Pin=JP2-8
+Added Pin To Net: NetName=GND Pin=JP2-9
+Added Pin To Net: NetName=OUT4 Pin=JP2-10
+Added Pin To Net: NetName=5V0 Pin=JP2-11
+Added Pin To Net: NetName=GND Pin=JP2-12
+Added Pin To Net: NetName=RC_IN Pin=JP2-13
+Added Pin To Net: NetName=5V0 Pin=JP2-14
+Added Pin To Net: NetName=GND Pin=JP2-15
+Added Member To Class: ClassName=原理图 Member=Component JP2 VTX

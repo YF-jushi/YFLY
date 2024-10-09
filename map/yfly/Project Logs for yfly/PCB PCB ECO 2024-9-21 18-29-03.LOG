@@ -1,0 +1,21 @@
+Added Component: Designator=JP10(PH2.0-8PIN)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP11(PH2.0-8PIN)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP10-1
+Added Pin To Net: NetName=E_SDA Pin=JP10-3
+Added Pin To Net: NetName=E_SCL Pin=JP10-4
+Added Pin To Net: NetName=4V5 Pin=JP10-8
+Added Pin To Net: NetName=GND Pin=JP11-1
+Added Pin To Net: NetName=3V0 Pin=JP11-2
+Added Pin To Net: NetName=E_CS1 Pin=JP11-3
+Added Pin To Net: NetName=E_CS3 Pin=JP11-5
+Added Pin To Net: NetName=E_MOSI Pin=JP11-6
+Added Pin To Net: NetName=E_MISO Pin=JP11-7
+Added Pin To Net: NetName=E_SCK Pin=JP11-8
+Added Member To Class: ClassName=原理图 Member=Component JP10 FLOW1
+Added Member To Class: ClassName=原理图 Member=Component JP11 FLOW2

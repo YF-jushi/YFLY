@@ -1,0 +1,45 @@
+Added Component: Designator=JP2(2.54_3X5RIN)
+Add component (AddParameter): Name = "BOM名称"; Value = "5*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JUMPER 3P)
+Added Component: Designator=R1(R 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=RN1(RES_P_8PIN)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT1 Pin=JP2-1
+Added Pin To Net: NetName=5V0 Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=OUT2 Pin=JP2-4
+Added Pin To Net: NetName=5V0 Pin=JP2-5
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=OUT3 Pin=JP2-7
+Added Pin To Net: NetName=5V0 Pin=JP2-8
+Added Pin To Net: NetName=GND Pin=JP2-9
+Added Pin To Net: NetName=OUT4 Pin=JP2-10
+Added Pin To Net: NetName=5V0 Pin=JP2-11
+Added Pin To Net: NetName=GND Pin=JP2-12
+Added Pin To Net: NetName=RC_IN Pin=JP2-13
+Added Pin To Net: NetName=5V0 Pin=JP2-14
+Added Pin To Net: NetName=GND Pin=JP2-15
+Added Pin To Net: NetName=SBUS Pin=JP3-1
+Added Pin To Net: NetName=RC_IN Pin=JP3-2
+Added Pin To Net: NetName=PPM Pin=JP3-3
+Added Pin To Net: NetName=3V3_MCU Pin=R1-1
+Added Pin To Net: NetName=PPM Pin=R1-2
+Added Pin To Net: NetName=OUT1 Pin=RN1-1
+Added Pin To Net: NetName=S1 Pin=RN1-2
+Added Pin To Net: NetName=OUT2 Pin=RN1-3
+Added Pin To Net: NetName=S2 Pin=RN1-4
+Added Pin To Net: NetName=OUT3 Pin=RN1-5
+Added Pin To Net: NetName=S3 Pin=RN1-6
+Added Pin To Net: NetName=OUT4 Pin=RN1-7
+Added Pin To Net: NetName=S4 Pin=RN1-8
+Added Member To Class: ClassName=原理图 Member=Component JP2 VTX
+Added Member To Class: ClassName=原理图 Member=Component JP3 JUPER
+Added Member To Class: ClassName=原理图 Member=Component R1 1K
+Added Member To Class: ClassName=原理图 Member=Component RN1 1K

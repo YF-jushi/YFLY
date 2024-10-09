@@ -1,0 +1,4 @@
+Added Component: Designator=BEEP1(BELL-5)
+Added Pin To Net: NetName=3V0 Pin=BEEP1-1
+Added Pin To Net: NetName=NetBEEP1_2 Pin=BEEP1-2
+Added Member To Class: ClassName=‘≠¿ÌÕº Member=Component BEEP1 BEEP
