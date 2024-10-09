@@ -4,7 +4,7 @@
 
 ​	本人是飞控的爱好者，初级业余飞控开发者，本作品也是第一次软硬件完全开发，难免有多多少少的美观性，合理性，逻辑性的问题，如有问题，还望各位道友不吝赐教。
 
-​	<img src="D:\share\yfly\5.github_src\picture\整机2.jpg" style="zoom:15%;" />
+​	<img src=".\picture\整机2.jpg" style="zoom:15%;" />
 
 项目演示视频（必看！小弟很用心剪的，哈哈哈哈）：
 
@@ -31,7 +31,7 @@
 
 支持匿名地面站进行PID调参
 
-<img src="D:\share\yfly\5.github_src\picture\PID.png" style="zoom:50%;" />
+<img src=".\picture\PID.png" style="zoom:50%;" />
 
 # 开源
 
